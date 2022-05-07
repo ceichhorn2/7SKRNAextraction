@@ -5,8 +5,8 @@ The script is used to extract the nucleotide sequence of 7SK RNA on chromosome 6
 
 #Example:
 
-- Locate and download the example folder in the repository.
-- Run the python script for the input file.
+- Locate example input "input.bedgraph" (extracted, piled up coverage and shifted one nucleotide toward the 5'-end) in the repository.
+- Run the python script for the input file and compare to the output file (output.bedgraph).
 
 #Description of the output:
 
